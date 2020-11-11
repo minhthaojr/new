@@ -10,7 +10,7 @@ namespace tamgiac2
     {
         static void Main(string[] args)
         {
-            int a, b, c;
+            int a, b, c;decimal;
             Console.WriteLine("nhap canh thu nhat");
             a = int.Parse(Console.ReadLine());
             Console.WriteLine("nhap canh thu 2:");
